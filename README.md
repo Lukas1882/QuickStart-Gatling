@@ -15,7 +15,7 @@ Gatling officially supports the following protocols: HTTP, WebSockets, Server Se
 * Scenario recorder and developer-friendly DSL.
 
 **To user Gatling, you needn't to have good Scala knowledges, although the scenario is written in Scala.**
-## 2. Setup Gatling tools
+## 2. Setup Gatling Tools
 Firstly, download [Gatling bundle(zip)](http://goo.gl/o14jQg) from [Gatling download page](http://gatling.io/#/download) and unpack the Gatling folder to a folder of your choice. Gatling also supports Maven and SBT.
 
 To run Gatling, you need have Java 7+ or later in you machine. In my macbook, it is java 7. Open your terminal and cd to the Gatling folder, then go to the folder "bin". Run the following command to start Gatling.
